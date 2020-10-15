@@ -1,2 +1,2 @@
-# M.A.S.C.
+# Project tbd
 Practicum Proposal placeholder
